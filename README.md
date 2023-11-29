@@ -6,4 +6,4 @@ My new app .
 <i>For implementation we will use the function and circle from js</i>
 
 Tasks:
- today i write functionality
+ today i write functionality. Forgett
