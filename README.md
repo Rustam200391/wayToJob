@@ -3,7 +3,7 @@
 This app allows you to calculate travel time to work. 
 My new app .
 
-<i>For implementation we will use the function and circle from js</i
+<i>For implementation we will use the function and circle from js
 
 Tasks:
  today i write functionality. Forgett. I must.
