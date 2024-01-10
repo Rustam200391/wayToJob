@@ -6,4 +6,4 @@ My new app .
 For implementation we will use the function and circle from js
 
 Tasks:
-today i write functionality. Forgett. 
+today i write functionality. Forgett. </i>
