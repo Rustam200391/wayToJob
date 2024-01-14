@@ -1,4 +1,4 @@
-let xRay = 0;
+const xRay = 0;
 
 let destination = prompt("Введите название места назначения");
 let wayToDestination = prompt(
