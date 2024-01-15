@@ -6,6 +6,6 @@ My new app .
 For implementation we will use the function and circle from js
 
 Tasks:
-<i>today i write functionality.</i><b>Forgett.
+<i>today i write functionality.</i>Forgett.
 
 App for count way and time on way to specified location
