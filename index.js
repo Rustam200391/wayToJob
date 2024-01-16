@@ -1,4 +1,8 @@
 let xRay = 0;
 
-let way = prompt("Введите расстояние до места в которое вам нужно прибыть");
-let duration = prompt("Введите время к которому вам нужно прибыть в" + `{way}`);
+let destination = prompt("Введите название места назначения");
+let wayToDestination = prompt("Введите расстояние до места"`${destination}`);
+let duration = prompt(
+  "Введите время за которое вам нужно преодолеть"`${wayToDestination}`,
+  "что бы прибыть в" + `${destination}`
+);
