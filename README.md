@@ -9,4 +9,4 @@ Tasks:
 <i>today i write functionality.</i>Forgett.
 
 App for count way and time on way to specified location
-I'm coming.Apply typescript</i>
+I'm coming.Apply <i>typescript</i>
