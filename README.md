@@ -5,7 +5,7 @@ My new app .
 
 For implementation we will use the function and circle from js
 
-<i>Tasks:
+<i>Tasks:</i>
 
 App for count way and time on way to specified location
 I'm coming.Apply typescript
