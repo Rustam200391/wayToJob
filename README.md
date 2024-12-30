@@ -1,6 +1,6 @@
 # wayToJob
 an application created by me
-This app allows you to calcula.te travel time to <i>work<>. 
+This app allows you to calcula.te travel time to <i>work. 
 My new app.
 
 For implementation we will use the function and circle from js
