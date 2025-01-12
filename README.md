@@ -1,5 +1,5 @@
 # wayToJob
-<i>an application created by me</i>
+<i>an application created by me</i
 <i>This app allows you to calcula.te travel time to work. </i>
 My new app.
 
