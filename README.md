@@ -1,6 +1,6 @@
 # wayToJob
 <i>an application created by me</i>
-<i>This app allows you to calcula.te travel time to work. </i>
+<i>This app allows you to calcula.te travel time to work. 
 My new app.
 
 For implementation we will use the function and circle from js
